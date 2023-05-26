@@ -25,7 +25,7 @@ namespace Algorithm
             {
                 Console.Write(num + " ");
             }
-            Console.WriteLine("\n==============================================================\n");
+            Console.WriteLine("\n==============================================================\n" );
             
 
             // Selection Sort
